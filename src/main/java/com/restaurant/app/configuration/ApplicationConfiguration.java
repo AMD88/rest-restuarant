@@ -6,6 +6,5 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupp
 
 @Configuration
 @ComponentScan(basePackages = "com.restaurant.app")
-public class ApplicationConfiguration extends WebMvcConfigurationSupport{
-
+public class ApplicationConfiguration extends WebMvcConfigurationSupport {
 }
